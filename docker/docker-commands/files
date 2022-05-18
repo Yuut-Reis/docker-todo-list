@@ -1,2 +1,1 @@
 docker image build -t todotests:v1
-docker image build -t todofrontendd:v1
